@@ -69,4 +69,15 @@ total number of such vehicles.
 - Motorcycles (886 accidents) and Trucks (547 accidents) show relatively fewer accidents but could have higher severity.
 - Bicycles (2 accidents) have the lowest representation.
 
+---
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## References
+- NYC Open Data - Motor Vehicle Collisions Dataset: [https://data.cityofnewyork.us](https://data.cityofnewyork.us)
+- New York City Department of Transportation (NYC DOT) - Traffic Reports: [https://www.nyc.gov/html/dot/html/home/home.shtml](https://www.nyc.gov/html/dot/html/home/home.shtml)
+- National Highway Traffic Safety Administration (NHTSA): [https://www.nhtsa.gov/](https://www.nhtsa.gov/)
+- COVID-19 Impact on Traffic Patterns: [https://www.transportation.gov/](https://www.transportation.gov/)
