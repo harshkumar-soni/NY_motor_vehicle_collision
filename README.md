@@ -77,7 +77,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 ## References
-- NYC Open Data - Motor Vehicle Collisions Dataset: [https://data.cityofnewyork.us](https://data.cityofnewyork.us)
+- NYC Open Data - Motor Vehicle Collisions Dataset: [https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 - New York City Department of Transportation (NYC DOT) - Traffic Reports: [https://www.nyc.gov/html/dot/html/home/home.shtml](https://www.nyc.gov/html/dot/html/home/home.shtml)
 - National Highway Traffic Safety Administration (NHTSA): [https://www.nhtsa.gov/](https://www.nhtsa.gov/)
 - COVID-19 Impact on Traffic Patterns: [https://www.transportation.gov/](https://www.transportation.gov/)
